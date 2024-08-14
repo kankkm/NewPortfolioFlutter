@@ -40,7 +40,7 @@ class InfoSection extends StatelessWidget {
                   children: [
                     PrimaryButton(
                       onTap: () {
-                        const url = 'https://drive.google.com/file/d/1SG7-z4js5KXtJGu5IejoxjT9UdlruzwF/view?usp=sharing';
+                        const url = 'https://drive.google.com/file/d/1KjTH5pHTgqDSxM7kAEy2dt7-DRyYfQcu/view?usp=sharing';
                         _launchURL(url); // Call the renamed method
                       },
                       btnName: "Download CV",
