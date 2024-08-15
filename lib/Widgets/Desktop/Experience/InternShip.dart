@@ -64,7 +64,7 @@ class InternshipData extends StatelessWidget {
           company: "Home",
           position: "Freelance",
           description:
-              "I move to Sakonnakorn at home because My father retirement and get back to Sakonnakorn",
+              "",
           companyLogo: "",
           onTap: () {},
         ),
