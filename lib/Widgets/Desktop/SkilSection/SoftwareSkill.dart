@@ -27,18 +27,18 @@ class SoftwareSkill extends StatelessWidget {
               skillName: "MS OFFICE", percent: 0.8, lable: "80"),
           SizedBox(height: 20),
           MyLinearProgressInductor(
-              skillName: "PHOTOSHOP", percent: 0.6, lable: "60"),
+              skillName: "PHOTOSHOP", percent: 0.7, lable: "70"),
           SizedBox(height: 20),
           MyLinearProgressInductor(
-              skillName: "Andriod Studio", percent: 0.7, lable: "70"),
+              skillName: "Android Studio", percent: 0.6, lable: "60"),
           SizedBox(height: 20),
           MyLinearProgressInductor(
-              skillName: "Capcut", percent: 1, lable: "99"),
+              skillName: "Capcut,Premiere pro", percent: 0.7, lable: "70"),
           SizedBox(height: 20),
           MyLinearProgressInductor(skillName: "CANVA", percent: 1, lable: "99"),
           SizedBox(height: 20),
           MyLinearProgressInductor(
-              skillName: "FIGMA/INDESIGN", percent: 1, lable: "99"),
+              skillName: "FlutterFlow", percent: 0.6, lable: "60"),
           SizedBox(height: 20),
           MyLinearProgressInductor(
               skillName: "Service", percent: 1, lable: "99"),
