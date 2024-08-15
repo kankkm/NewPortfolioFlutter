@@ -44,29 +44,9 @@ class ProgramingSkill extends StatelessWidget {
               lable: "70%",
               skillName: "HTML / CSS",
             ),
-            MyProgracessIndicator(
-              percent: 0.5,
-              lable: "50%",
-              skillName: "React JS",
-            ),
           ],
         ),
-        SizedBox(height: 25),
-        Row(
-          mainAxisAlignment: MainAxisAlignment.spaceAround,
-          children: [
-            MyProgracessIndicator(
-              percent: 0.5,
-              lable: "50%",
-              skillName: "C# / .Net",
-            ),
-            MyProgracessIndicator(
-              percent: 0.5,
-              lable: "50%",
-              skillName: "JavaScript",
-            ),
-          ],
-        )
+
       ],
     );
   }
