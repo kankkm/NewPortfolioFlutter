@@ -32,7 +32,7 @@ class InfoSection extends StatelessWidget {
                 ),
                 const SizedBox(height: 4),
                 Text(
-                  "Am graduate from King mongkut university of technology thonburi Faculty information technology. Nice to meet everyone! I work at Bangkok Rayong Hospital with 1 year of experience in IT customer service support. Now I am looking for opportunities in UX/UI Design or Mobile Development.",
+                  "Am graduated from King mongkut university of technology thonburi Faculty information technology. Nice to meet everyone! I work at Bangkok Rayong Hospital with 1 year of experience in IT customer service support. Now I am looking for opportunities in UX/UI Design or Mobile Developer.",
                   style: Theme.of(context).textTheme.labelMedium,
                 ),
                 const SizedBox(height: 10),
@@ -40,7 +40,7 @@ class InfoSection extends StatelessWidget {
                   children: [
                     PrimaryButton(
                       onTap: () {
-                        const url = 'https://drive.google.com/file/d/1KjTH5pHTgqDSxM7kAEy2dt7-DRyYfQcu/view?usp=sharing';
+                        const url = 'https://drive.google.com/file/d/1I7D8CDP57bukejzRMuX-ROU9WmBs1YZr/view?usp=sharing';
                         _launchURL(url); // Call the renamed method
                       },
                       btnName: "Download CV",
